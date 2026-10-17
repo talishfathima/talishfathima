@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Currently%20exploring%20Agentic%20AI%2C%20System%20Design%2C%20and%20Full%20Stack%20Development." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Currently%20exploring%20Agentic%20AI%20and%20Full%20Stack%20Development." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
