@@ -13,7 +13,7 @@
 Computer Science student building AI applications, full-stack web projects, and developer tools. Passionate about writing clean code, designing intuitive interfaces, and continuously learning.
 
 🔭 &nbsp;I'm currently working on **Building AI agents with FastAPI, LangChain &amp; PostgreSQL**  
-🌱 &nbsp;I'm currently learning **Agentic AI, LangGraph &amp; System Design**
+🌱 &nbsp;I'm currently learning **Agentic AI, LangGraph &amp; full stack development**
 
 ### 🛠️ Tech Stack
 
